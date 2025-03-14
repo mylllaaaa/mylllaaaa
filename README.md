@@ -2,7 +2,7 @@
 
 *Computer Science Student*
 
-Me chamo Myllena de Sousa Medeiros, tenho 20 anos e sou natural de Patos-PB. Atualmente, sou estudante do curso de Ciência da Computação na Universidade Estadual da Paraíba (UEPB). 
+Me chamo Myllena Medeiros, tenho 20 anos e sou natural de Patos-PB. Atualmente, sou estudante do curso de Ciência da Computação na Universidade Estadual da Paraíba (UEPB). 
 
 Hello! I am Myllena de Sousa Medeiros, 20 years old. I'm from Patos-PB (Brazil) and at the moment I'm a Computer Science student at Universidade Estadual da Paraíba (UEPB).
 
