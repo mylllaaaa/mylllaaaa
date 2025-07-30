@@ -2,9 +2,11 @@
 
 *Computer Science Student*
 
-Me chamo Myllena Medeiros, tenho 20 anos e sou natural de Patos-PB. Atualmente, sou estudante do curso de Ciência da Computação na Universidade Estadual da Paraíba (UEPB). 
+Olá! Me chamo Myllena Medeiros, tenho 20 anos e sou natural de Patos–PB. Atualmente, sou estudante de Ciência da Computação na Universidade Estadual da Paraíba (UEPB). Tenho interesse em desenvolvimento web, com foco em HTML, CSS, JavaScript e Java, além de noções em Spring Boot e bancos de dados SQL e NoSQL.
 
-Hello! I am Myllena Medeiros, 20 years old. I'm from Patos-PB (Brazil) and at the moment I'm a Computer Science student at Universidade Estadual da Paraíba (UEPB).
+Hi! I'm Myllena Medeiros, 20 years old, from Patos–PB, Brazil. I'm currently a Computer Science student at Universidade Estadual da Paraíba (UEPB). I'm interested in web development, focusing on HTML, CSS, JavaScript, and Java, with basic knowledge of Spring Boot, SQL, and NoSQL databases.
+I'm always learning and sharing projects here!
+
 
 <p align="left">
     <a href="https://github.com/mylllaaaa?tab=followers">
