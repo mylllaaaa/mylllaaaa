@@ -7,7 +7,7 @@ Olá! Me chamo Myllena Medeiros, tenho 20 anos e sou natural de Patos–PB. Atua
 Hi! I'm Myllena Medeiros, 20 years old, from Patos–PB, Brazil. I'm currently a Computer Science student at Universidade Estadual da Paraíba (UEPB). I'm interested in web development, focusing on HTML, CSS, JavaScript, and Java, with basic knowledge of Spring Boot, SQL, and NoSQL databases.
 I'm always learning and sharing projects here!
 
-Portfolio: <a href="https://mylllaaaa.github.io/meu-site-apresentacao/">
+Portfolio: https://mylllaaaa.github.io/meu-site-apresentacao/
 
 
 <p align="left">
